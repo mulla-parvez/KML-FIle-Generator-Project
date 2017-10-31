@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Placemark xmlns="http://www.opengis.net/kml/2.2">
+  <name>Zoo</name>
+  <Point>
+    <coordinates>-116.2032028,43.608879029999997</coordinates>
+  </Point>
+</Placemark>
