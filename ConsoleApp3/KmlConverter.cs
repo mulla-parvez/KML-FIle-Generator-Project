@@ -174,7 +174,7 @@ namespace ConsoleApp3
                     _placemark2.StyleUrl = new Uri("#RoadStyle1", UriKind.Relative);
                 else
                     _placemark2.StyleUrl = new Uri("#RoadStyle2", UriKind.Relative);
-                _document.AddFeature(_placemark2);                
+                _document.AddFeature(_placemark2);                //adding line to the document
             }            
             _kml.Feature = _document;
 
